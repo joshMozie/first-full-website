@@ -414,6 +414,8 @@ body {
 }
 
 .section-five {
+    height: 216px;
+    background: #E7ECFF;
     padding-top: 61px;
     padding-left: 165px;
     padding-right: 165px;
