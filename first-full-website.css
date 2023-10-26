@@ -327,6 +327,25 @@ body {
     width: 445px;
 }
 
+.section-three-bottom p {
+    margin-bottom: 40px;
+}
+
+.section-three-bottom button {
+    width: 189px;
+    height: 32px;
+    border-radius: 2px;
+    background-color: #111B47;
+
+    color: var(--colour-secondary-white-100-general, #FFF);
+    text-align: center;
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+}
+
 .section-four {
     background-color: #E7ECFF;
     display: flex;
